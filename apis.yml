@@ -1,0 +1,32 @@
+aid: novadax
+name: NovaDax
+description: "NovaDAX API to access all market data, trading management endpoints"
+url: https://doc.novadax.com/en-US/#introduction
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cryptocurrency"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cryptocurrency
+  - Public APIs
+apis:
+  - name: NovaDax
+    description: "NovaDAX API to access all market data, trading management endpoints"
+    humanURL: https://doc.novadax.com/en-US/#introduction
+    baseURL: https://doc.novadax.com/en-US/#introduction
+    tags:
+      - Cryptocurrency
+    properties:
+      - type: Documentation
+        url: https://doc.novadax.com/en-US/#introduction
+common:
+  - type: Website
+    url: https://doc.novadax.com/en-US/#introduction
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
