@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/novadax.pn
 name: NovaDax
 description: "NovaDAX API to access all market data, trading management endpoints"
 url: https://doc.novadax.com/en-US/#introduction
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
