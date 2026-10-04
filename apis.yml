@@ -39,7 +39,6 @@ apis:
   - name: NovaDax
     description: "NovaDAX API to access all market data, trading management endpoints"
     humanURL: https://doc.novadax.com/en-US/#introduction
-    baseURL: https://doc.novadax.com/en-US/#introduction
     tags:
       - Cryptocurrency
     properties:
